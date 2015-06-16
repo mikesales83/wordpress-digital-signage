@@ -10,7 +10,8 @@ https://github.com/mikesales83/wordpress-digital-signage/releases
 
 ## Key Features
 
-* Content customisation and prioritisation - post locally on individual screen or subscribe screens to central channels of content!
+* Content customisation and prioritisation - post locally on individual screens or subscribe screens to central channels of content!
+* Automatically import and display existing RSS feeds within content channels - never be without up-to-date content!
 * Emergency/high priority messages - override the system as a whole or at an individual screen level
 * Deliver YouTube video and full screen imagery
 * Support for external news tickers
