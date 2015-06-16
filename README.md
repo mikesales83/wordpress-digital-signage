@@ -17,3 +17,7 @@ https://github.com/mikesales83/wordpress-digital-signage/releases
 * Support for external news tickers
 * Twitter feed support (single accounts or a list)
 * Weather and clock widgets
+
+## Credits
+
+The design used within this system is loosely based around the Digital Signage theme by Nate Jones, which can be found here - http://pixelydo.com/work/wordpress-digital-signage/
