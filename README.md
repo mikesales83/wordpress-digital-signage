@@ -15,5 +15,5 @@ https://github.com/mikesales83/wordpress-digital-signage/releases
 * Emergency/high priority messages - override the system as a whole or at an individual screen level
 * Deliver YouTube video and full screen imagery
 * Support for external news tickers
-* Twitter feed support (single accounts or a list!)
+* Twitter feed support (single accounts or a list)
 * Weather and clock widgets
