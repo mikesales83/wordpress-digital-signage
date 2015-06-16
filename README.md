@@ -8,7 +8,8 @@ https://github.com/mikesales83/wordpress-digital-signage/releases
 
 ![cm-display](https://cloud.githubusercontent.com/assets/12751726/8180494/30f3c834-1416-11e5-9192-fe1fb9c23d00.png)
 
-Key features include:-
+## Key Features
+
 * Content customisation and prioritisation - post locally on individual screen or subscribe screens to central channels of content!
 * Emergency/high priority messages - override the system as a whole or at an individual screen level
 * Deliver YouTube video and full screen imagery
